@@ -3,3 +3,6 @@
   background-color: pink;
   float: right;
 }
+img.main {
+  float: left;
+}
