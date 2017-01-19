@@ -12,3 +12,10 @@ img.main {
   margin-left: 10px;
   margin-right: 10px;
 }
+
+@media screen and (max-width: 786px) and (min-width: 300px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
